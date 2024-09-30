@@ -652,7 +652,7 @@
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--contrast-2)"
+					"text": "var(--wp--preset--color--vivid-cyan-blue)"
 				}
 			}
 		},
