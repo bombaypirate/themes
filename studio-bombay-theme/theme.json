@@ -1,0 +1,387 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"blocks": {
+			"core/image": {
+				"appearanceTools": true,
+				"color": {
+					"background": true,
+					"custom": true,
+					"customDuotone": true,
+					"customGradient": true,
+					"defaultDuotone": true,
+					"defaultGradients": true,
+					"defaultPalette": true,
+					"duotone": [],
+					"gradients": [],
+					"palette": [
+						{
+							"color": "#fdebd0",
+							"name": "Blanched Almond",
+							"slug": "custom-blanched-almond"
+						},
+						{
+							"color": "#f6dfbd",
+							"name": "Wheat",
+							"slug": "custom-wheat"
+						},
+						{
+							"color": "#3b2e7e",
+							"name": "Ballpoint Ink",
+							"slug": "custom-ballpoint-ink"
+						},
+						{
+							"color": "#5d5050",
+							"name": "Typewriter Ink",
+							"slug": "custom-typewriter-ink"
+						},
+						{
+							"color": "#f8d5d5",
+							"name": "Footer Pink",
+							"slug": "custom-footer-pink"
+						},
+						{
+							"color": "#c34a2c",
+							"name": "Chestnut Red",
+							"slug": "custom-chestnut-red"
+						}
+					],
+					"text": true
+				},
+				"layout": {
+					"contentSize": "50rem",
+					"wideSize": "75rem"
+				},
+				"lightbox": {
+					"allowEditing": true,
+					"enabled": true
+				},
+				"shadow": {
+					"defaultPresets": true,
+					"presets": []
+				},
+				"spacing": {
+					"customSpacingSize": true,
+					"defaultSpacingSizes": true,
+					"spacingScale": {
+						"default": {
+							"increment": 1.5,
+							"mediumStep": 1.5,
+							"operator": "*",
+							"steps": 7,
+							"unit": "rem"
+						}
+					},
+					"spacingSizes": [],
+					"units": [
+						"%",
+						"px",
+						"em",
+						"rem",
+						"vh",
+						"vw"
+					]
+				},
+				"typography": {
+					"customFontSize": true,
+					"defaultFontSizes": true,
+					"dropCap": true,
+					"fontFamilies": [
+						{
+							"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+							"name": "System Font",
+							"slug": "system-font"
+						}
+					],
+					"fontSizes": [],
+					"fontStyle": true,
+					"fontWeight": true,
+					"letterSpacing": true,
+					"textAlign": true,
+					"textDecoration": true,
+					"textTransform": true,
+					"writingMode": false
+				},
+				"useRootPaddingAwareAlignments": true
+			}
+		},
+		"color": {
+			"palette": [
+				{
+					"color": "#fdebd0",
+					"name": "Blanched Almond",
+					"slug": "custom-blanched-almond"
+				},
+				{
+					"color": "#f6dfbd",
+					"name": "Wheat",
+					"slug": "custom-wheat"
+				},
+				{
+					"color": "#3b2e7e",
+					"name": "Ballpoint Ink",
+					"slug": "custom-ballpoint-ink"
+				},
+				{
+					"color": "#5d5050",
+					"name": "Typewriter Ink",
+					"slug": "custom-typewriter-ink"
+				},
+				{
+					"color": "#f8d5d5",
+					"name": "Footer Pink",
+					"slug": "custom-footer-pink"
+				},
+				{
+					"color": "#c34a2c",
+					"name": "Chestnut Red",
+					"slug": "custom-chestnut-red"
+				},
+				{
+					"color": "#f8f6f0",
+					"name": "Pearl White",
+					"slug": "custom-pearl-white"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "50rem",
+			"wideSize": "75rem"
+		},
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"EB Garamond\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/eb-garamond/eb-garamond-400-italic.otf"
+							]
+						},
+						{
+							"fontFamily": "\"EB Garamond\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/eb-garamond/eb-garamond-400-normal.otf"
+							]
+						}
+					],
+					"fontFamily": "\"EB Garamond\"",
+					"name": "EB Garamond",
+					"slug": "eb-garamond"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"EB Garamond 12 All SC\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/eb-garamond-12-all-sc/eb-garamond-12-all-sc-400-normal.otf"
+							]
+						}
+					],
+					"fontFamily": "\"EB Garamond 12 All SC\"",
+					"name": "EB Garamond 12 All SC",
+					"slug": "eb-garamond-12-all-sc"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"EB Garamond SC\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/eb-garamond-sc/eb-garamond-sc-400-normal.otf"
+							]
+						}
+					],
+					"fontFamily": "\"EB Garamond SC\"",
+					"name": "EB Garamond SC",
+					"slug": "eb-garamond-sc"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Mocaroni",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/mocaroni/mocaroni-400-normal.ttf"
+							]
+						}
+					],
+					"fontFamily": "Mocaroni",
+					"name": "Mocaroni",
+					"slug": "mocaroni"
+				}
+			]
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"blocks": {
+			"core/buttons": {
+				"spacing": {
+					"blockGap": "0"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
+			"core/image": {
+				"border": {
+					"bottom": {
+						"color": "var(--wp--preset--color--custom-blanched-almond)",
+						"style": "solid",
+						"width": "0.5rem"
+					},
+					"color": null,
+					"left": {
+						"color": "var(--wp--preset--color--custom-blanched-almond)",
+						"style": "solid",
+						"width": "0.5rem"
+					},
+					"radius": "25px",
+					"right": {
+						"color": "var(--wp--preset--color--custom-blanched-almond)",
+						"style": "solid",
+						"width": "0.5rem"
+					},
+					"style": null,
+					"top": {
+						"color": "var(--wp--preset--color--custom-blanched-almond)",
+						"style": "solid",
+						"width": "0.5rem"
+					},
+					"width": null
+				},
+				"shadow": "var(--wp--preset--shadow--deep)"
+			},
+			"core/list": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"core/navigation": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond-sc)"
+				}
+			},
+			"core/paragraph": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"core/post-date": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond-12-all-sc)",
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
+			"core/pullquote": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-typewriter-ink)",
+					"text": "var(--wp--preset--color--custom-blanched-almond)"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--custom-blanched-almond)"
+						}
+					}
+				}
+			},
+			"core/query-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)"
+				}
+			},
+			"core/site-tagline": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond-sc)"
+				}
+			},
+			"core/site-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--mocaroni)",
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"fontStyle": "normal",
+					"fontWeight": "100"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--custom-wheat)",
+			"text": "var(--wp--preset--color--custom-typewriter-ink)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-typewriter-ink)"
+				}
+			},
+			"caption": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-typewriter-ink)"
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-typewriter-ink)"
+				}
+			},
+			"link": {
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--custom-ballpoint-ink)"
+					}
+				},
+				"color": {
+					"text": "var(--wp--preset--color--custom-chestnut-red)"
+				}
+			}
+		},
+		"spacing": {
+			"padding": {
+				"bottom": "0rem",
+				"left": "0rem",
+				"right": "0rem",
+				"top": "0rem"
+			}
+		}
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
+}
