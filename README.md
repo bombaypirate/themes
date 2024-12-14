@@ -1,4 +1,13 @@
+# Studio Bombay
 
-# Themes
+Welcome to the development repository for a theme developed for a blog, mainly [bombaypirate.com](https://bombaypirate.com)
 
-Welcome to the development repository for a themes developed by [@bombaypirate](https://www.github.com/bombaypirate)
+
+## License
+
+[GPLv2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
+
+## Authors
+
+- [@bombaypirate](https://www.github.com/bombaypirate)
